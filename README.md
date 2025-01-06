@@ -83,7 +83,7 @@ git branch -d feature-2
 ## Remotely
 ```
 git push origin --delete feature-1
-git push origin --delete feature-
+git push origin --delete feature-2
 ```
 ## Final Submission
 ```
