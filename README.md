@@ -60,7 +60,6 @@ echo "feature 2 file overwrite" > feature2.txt
 git add feature2.txt
 git commit -m "feature-2 branch added & add a new file"
 git push origin feature-2
-Create another pull request for feature-2 merging into main.
 ```
 
 
